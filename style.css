@@ -24,6 +24,8 @@ p {
 a,
 .btn {
   transition: all 300ms ease;
+  font-size: 13px;
+  text-decoration: none !important;
 }
 
 /* DESKTOP NAV */
